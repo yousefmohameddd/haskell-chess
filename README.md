@@ -1,3 +1,4 @@
+# Haskell Chess
 ## Description
 This project is a recreation of the classic game of chess, implemented using Haskell. It has all the rules of regular chess except promotion and castling. The game is played through the CLI and has five possible commands:
 1) setBoard:: Board: Takes no inputs and returns a board with the initial configuration
